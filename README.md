@@ -202,7 +202,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 📧 Email: *madhukamane07@gmail.com*
 
-🔗 LinkedIn: *Add your LinkedIn profile*
+🔗 LinkedIn: *https://www.linkedin.com/in/madhukamane/*
 
 🔗 GitHub: *https://github.com/Madhukamane/*
 
